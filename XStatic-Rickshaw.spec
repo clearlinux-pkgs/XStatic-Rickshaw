@@ -4,7 +4,7 @@
 #
 Name     : XStatic-Rickshaw
 Version  : 1.5.0.0
-Release  : 9
+Release  : 10
 URL      : https://pypi.python.org/packages/source/X/XStatic-Rickshaw/XStatic-Rickshaw-1.5.0.0.tar.gz
 Source0  : https://pypi.python.org/packages/source/X/XStatic-Rickshaw/XStatic-Rickshaw-1.5.0.0.tar.gz
 Summary  : Rickshaw 1.5.0 (XStatic packaging standard)
