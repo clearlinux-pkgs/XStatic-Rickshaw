@@ -4,7 +4,7 @@
 #
 Name     : XStatic-Rickshaw
 Version  : 1.5.0.0
-Release  : 20
+Release  : 21
 URL      : http://pypi.debian.net/XStatic-Rickshaw/XStatic-Rickshaw-1.5.0.0.tar.gz
 Source0  : http://pypi.debian.net/XStatic-Rickshaw/XStatic-Rickshaw-1.5.0.0.tar.gz
 Summary  : Rickshaw 1.5.0 (XStatic packaging standard)
